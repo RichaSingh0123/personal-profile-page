@@ -22,6 +22,7 @@ This project highlights my skills, projects, and basic personal information in a
  
 
 # Live Demo 
+https://richasingh0123.github.io/personal-profile-page/
 
 
 
